@@ -18,7 +18,7 @@ for i in range(28):
     f = open(relative_path)  # open raw data file
 
     data_dict = json.load(f)  # convert data to dict
-    all_data["rows"].append(data_dict["d"]["rows"])  # append file data to all data 
+    all_data["rows"].extend(data_dict["d"]["rows"])  # append file data to all data 
     f.close()  # close data file
 
 # Copies all data to the "combined.json file"
