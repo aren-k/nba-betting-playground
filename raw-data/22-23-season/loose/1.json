@@ -1,0 +1,5722 @@
+{
+  "s": 1,
+  "d": {
+    "total": 1386,
+    "onePage": 50,
+    "page": 2,
+    "rows": [
+      {
+        "id": 6656607,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17828494,
+        "away": 17828495,
+        "home-name": "Denver Nuggets",
+        "away-name": "Minnesota Timberwolves",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/Ol9hPPVE-vXFf6tnR.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/Aa2e7DRc-KbXk58wB.png?231108120042"
+        ],
+        "encodeEventId": "bPLczPsT",
+        "colClassName": "datet t1682470800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/denver-nuggets-minnesota-timberwolves-bPLczPsT/",
+        "date-start-base": 1682470800,
+        "date-start-timestamp": 1682470800,
+        "result": "112:109",
+        "homeResult": "112",
+        "awayResult": "109",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "112:109",
+        "info": [
+          {
+            "name": "5th leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Denver Nuggets wins series 4-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "22:29, 26:18, 29:30, 35:32",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.20999999999999996447286321199499070644378662109375,
+            "bettingTypeId": 3,
+            "eventId": 6656607,
+            "maxOdds": 1.2399999999999999911182158029987476766109466552734375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6b4ivx2rrhkx0xh02ke",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 4.7599999999999997868371792719699442386627197265625,
+            "bettingTypeId": 3,
+            "eventId": 6656607,
+            "maxOdds": 5.44000000000000039079850466805510222911834716796875,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6b4ivx2rrhkx0xh02kf",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Denver Nuggets - Minnesota Timberwolves",
+        "colClassNameTime": "datet t1682470800-1-1-0-0"
+      },
+      {
+        "id": 6653785,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17820026,
+        "away": 17820027,
+        "home-name": "Boston Celtics",
+        "away-name": "Atlanta Hawks",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/MVgCbbj9-0tHj7MWK.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/OjiL727n-4bqaxRtQ.png?231108120042"
+        ],
+        "encodeEventId": "Y7LW9O1S",
+        "colClassName": "datet t1682465400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/boston-celtics-atlanta-hawks-Y7LW9O1S/",
+        "date-start-base": 1682465400,
+        "date-start-timestamp": 1682465400,
+        "result": "117:119",
+        "homeResult": "117",
+        "awayResult": "119",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "117:119",
+        "info": [
+          {
+            "name": "5th leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Boston Celtics leads series 3-2.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "27:30, 39:28, 26:24, 25:37",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 1.12000000000000010658141036401502788066864013671875,
+            "bettingTypeId": 3,
+            "eventId": 6653785,
+            "maxOdds": 1.12999999999999989341858963598497211933135986328125,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6b1qpx2rrhkx0xgvqbq",
+            "maxOddsProviderId": 18,
+            "active": true
+          },
+          {
+            "avgOdds": 7,
+            "bettingTypeId": 3,
+            "eventId": 6653785,
+            "maxOdds": 8.699999999999999289457264239899814128875732421875,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6b1qpx2rrhkx0xgvqbr",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Boston Celtics - Atlanta Hawks",
+        "colClassNameTime": "datet t1682465400-1-1-0-0"
+      },
+      {
+        "id": 6638389,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773616,
+        "away": 17773615,
+        "home-name": "Los Angeles Lakers",
+        "away-name": "Memphis Grizzlies",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 10,
+        "event-stage-id": 10,
+        "event-stage-name": "After Extra Time",
+        "event-stage-name-short": "OT",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/xGkB4oTc-6y7aqqwb.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/CGrPMuhQ-tt2M10fr.png?231108120042"
+        ],
+        "encodeEventId": "tlZMhneJ",
+        "colClassName": "datet t1682388000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/los-angeles-lakers-memphis-grizzlies-tlZMhneJ/",
+        "date-start-base": 1682388000,
+        "date-start-timestamp": 1682388000,
+        "result": "&nbsp;OT",
+        "homeResult": "117",
+        "awayResult": "111",
+        "homeTextInResult": "",
+        "awayTextInResult": "OT",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "117:111&nbsp;OT",
+        "info": [
+          {
+            "name": "4th leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Los Angeles Lakers leads series 3-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "29:23, 25:29, 27:31, 23:21, 13:7",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "165": 1,
+          "141": 1,
+          "16": 1,
+          "49": 1,
+          "411": 1,
+          "45": 1,
+          "33": 1,
+          "43": 1,
+          "24": 1
+        },
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.520000000000000017763568394002504646778106689453125,
+            "bettingTypeId": 3,
+            "eventId": 6638389,
+            "maxOdds": 1.54000000000000003552713678800500929355621337890625,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aiplx2rrhkx0xgud1g",
+            "maxOddsProviderId": 18,
+            "active": true
+          },
+          {
+            "avgOdds": 2.649999999999999911182158029987476766109466552734375,
+            "bettingTypeId": 3,
+            "eventId": 6638389,
+            "maxOdds": 2.770000000000000017763568394002504646778106689453125,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aiplx2rrhkx0xgud1f",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Los Angeles Lakers - Memphis Grizzlies",
+        "colClassNameTime": "datet t1682388000-1-1-0-0"
+      },
+      {
+        "id": 6641796,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17784645,
+        "away": 17784644,
+        "home-name": "Miami Heat",
+        "away-name": "Milwaukee Bucks",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/ITLMj89K-hrxbSkzm.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/AVrbaDmh-xrW85HXg.png?231108120042"
+        ],
+        "encodeEventId": "I3ZT4dbN",
+        "colClassName": "datet t1682379000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/miami-heat-milwaukee-bucks-I3ZT4dbN/",
+        "date-start-base": 1682379000,
+        "date-start-timestamp": 1682379000,
+        "result": "119:114",
+        "homeResult": "119",
+        "awayResult": "114",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "119:114",
+        "info": [
+          {
+            "name": "4th leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Miami Heat leads series 3-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "28:33, 22:24, 28:32, 41:25",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 3.609999999999999875655021241982467472553253173828125,
+            "bettingTypeId": 3,
+            "eventId": 6641796,
+            "maxOdds": 3.9199999999999999289457264239899814128875732421875,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6am44x2rrhkx0xgunq5",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 1.3200000000000000621724893790087662637233734130859375,
+            "bettingTypeId": 3,
+            "eventId": 6641796,
+            "maxOdds": 1.350000000000000088817841970012523233890533447265625,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6am44x2rrhkx0xgunq4",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Miami Heat - Milwaukee Bucks",
+        "colClassNameTime": "datet t1682379000-1-1-0-0"
+      },
+      {
+        "id": 6641858,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17784769,
+        "away": 17784768,
+        "home-name": "Minnesota Timberwolves",
+        "away-name": "Denver Nuggets",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 10,
+        "event-stage-id": 10,
+        "event-stage-name": "After Extra Time",
+        "event-stage-name-short": "OT",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/Aa2e7DRc-KbXk58wB.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/Ol9hPPVE-vXFf6tnR.png?231108120042"
+        ],
+        "encodeEventId": "n3kcppZT",
+        "colClassName": "datet t1682299800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/minnesota-timberwolves-denver-nuggets-n3kcppZT/",
+        "date-start-base": 1682299800,
+        "date-start-timestamp": 1682299800,
+        "result": "&nbsp;OT",
+        "homeResult": "114",
+        "awayResult": "108",
+        "homeTextInResult": "",
+        "awayTextInResult": "OT",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "114:108&nbsp;OT",
+        "info": [
+          {
+            "name": "4th leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Denver Nuggets leads series 3-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "23:22, 25:30, 32:22, 16:22, 18:12",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "165": 1,
+          "141": 1,
+          "16": 1,
+          "49": 1,
+          "411": 1,
+          "45": 1,
+          "43": 1,
+          "24": 1,
+          "33": 1
+        },
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 2.5,
+            "bettingTypeId": 3,
+            "eventId": 6641858,
+            "maxOdds": 2.62999999999999989341858963598497211933135986328125,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6am62x2rrhkx0xgunu1",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 1.5800000000000000710542735760100185871124267578125,
+            "bettingTypeId": 3,
+            "eventId": 6641858,
+            "maxOdds": 1.62000000000000010658141036401502788066864013671875,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6am62x2rrhkx0xgunu0",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Minnesota Timberwolves - Denver Nuggets",
+        "colClassNameTime": "datet t1682299800-1-1-0-0"
+      },
+      {
+        "id": 6638386,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773610,
+        "away": 17773609,
+        "home-name": "Atlanta Hawks",
+        "away-name": "Boston Celtics",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/OjiL727n-4bqaxRtQ.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/MVgCbbj9-0tHj7MWK.png?231108120042"
+        ],
+        "encodeEventId": "6VtAelB0",
+        "colClassName": "datet t1682290800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/atlanta-hawks-boston-celtics-6VtAelB0/",
+        "date-start-base": 1682290800,
+        "date-start-timestamp": 1682290800,
+        "result": "121:129",
+        "homeResult": "121",
+        "awayResult": "129",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "121:129",
+        "info": [
+          {
+            "name": "4th leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Boston Celtics leads series 3-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "25:35, 28:30, 34:27, 34:37",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 3.399999999999999911182158029987476766109466552734375,
+            "bettingTypeId": 3,
+            "eventId": 6638386,
+            "maxOdds": 3.600000000000000088817841970012523233890533447265625,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aipix2rrhkx0xgud1a",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 1.3400000000000000799360577730112709105014801025390625,
+            "bettingTypeId": 3,
+            "eventId": 6638386,
+            "maxOdds": 1.4099999999999999200639422269887290894985198974609375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aipix2rrhkx0xgud19",
+            "maxOddsProviderId": 470,
+            "active": true
+          }
+        ],
+        "name": "Atlanta Hawks - Boston Celtics",
+        "colClassNameTime": "datet t1682290800-1-1-0-0"
+      },
+      {
+        "id": 6638392,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773622,
+        "away": 17773621,
+        "home-name": "Golden State Warriors",
+        "away-name": "Sacramento Kings",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/lf5zrq6n-M5fifScn.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/QBWK6QRc-I30Q0K9l.png?231108120042"
+        ],
+        "encodeEventId": "C83yC9es",
+        "colClassName": "datet t1682278200-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/golden-state-warriors-sacramento-kings-C83yC9es/",
+        "date-start-base": 1682278200,
+        "date-start-timestamp": 1682278200,
+        "result": "126:125",
+        "homeResult": "126",
+        "awayResult": "125",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "126:125",
+        "info": [
+          {
+            "name": "4th leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Series tied 2-2.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "31:32, 34:37, 37:23, 24:33",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.310000000000000053290705182007513940334320068359375,
+            "bettingTypeId": 3,
+            "eventId": 6638392,
+            "maxOdds": 1.350000000000000088817841970012523233890533447265625,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aipox2rrhkx0xgud1m",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 3.6699999999999999289457264239899814128875732421875,
+            "bettingTypeId": 3,
+            "eventId": 6638392,
+            "maxOdds": 3.9199999999999999289457264239899814128875732421875,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aipox2rrhkx0xgud1l",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Golden State Warriors - Sacramento Kings",
+        "colClassNameTime": "datet t1682278200-1-1-0-0"
+      },
+      {
+        "id": 6638401,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773640,
+        "away": 17773639,
+        "home-name": "New York Knicks",
+        "away-name": "Cleveland Cavaliers",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/bczR49Tc-I30Q0K9l.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/ABt7mTAK-IaEbD3De.png?231108120042"
+        ],
+        "encodeEventId": "WYy59yit",
+        "colClassName": "datet t1682269200-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/new-york-knicks-cleveland-cavaliers-WYy59yit/",
+        "date-start-base": 1682269200,
+        "date-start-timestamp": 1682269200,
+        "result": "102:93",
+        "homeResult": "102",
+        "awayResult": "93",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "102:93",
+        "info": [
+          {
+            "name": "4th leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "New York Knicks leads series 3-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "30:23, 24:22, 19:26, 29:22",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.770000000000000017763568394002504646778106689453125,
+            "bettingTypeId": 3,
+            "eventId": 6638401,
+            "maxOdds": 1.850000000000000088817841970012523233890533447265625,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aiq1x2rrhkx0xgud28",
+            "maxOddsProviderId": 18,
+            "active": true
+          },
+          {
+            "avgOdds": 2.109999999999999875655021241982467472553253173828125,
+            "bettingTypeId": 3,
+            "eventId": 6638401,
+            "maxOdds": 2.2400000000000002131628207280300557613372802734375,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aiq1x2rrhkx0xgud27",
+            "maxOddsProviderId": 617,
+            "active": true
+          }
+        ],
+        "name": "New York Knicks - Cleveland Cavaliers",
+        "colClassNameTime": "datet t1682269200-1-1-0-0"
+      },
+      {
+        "id": 6638388,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773614,
+        "away": 17773613,
+        "home-name": "Los Angeles Lakers",
+        "away-name": "Memphis Grizzlies",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/xGkB4oTc-6y7aqqwb.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/CGrPMuhQ-tt2M10fr.png?231108120042"
+        ],
+        "encodeEventId": "2czJgSuD",
+        "colClassName": "datet t1682215200-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/los-angeles-lakers-memphis-grizzlies-2czJgSuD/",
+        "date-start-base": 1682215200,
+        "date-start-timestamp": 1682215200,
+        "result": "111:101",
+        "homeResult": "111",
+        "awayResult": "101",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "111:101",
+        "info": [
+          {
+            "name": "3rd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Los Angeles Lakers leads series 2-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "35:9, 18:28, 35:31, 23:33",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.54000000000000003552713678800500929355621337890625,
+            "bettingTypeId": 3,
+            "eventId": 6638388,
+            "maxOdds": 1.5700000000000000621724893790087662637233734130859375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aipkx2rrhkx0xgud1e",
+            "maxOddsProviderId": 550,
+            "active": true
+          },
+          {
+            "avgOdds": 2.5800000000000000710542735760100185871124267578125,
+            "bettingTypeId": 3,
+            "eventId": 6638388,
+            "maxOdds": 2.70999999999999996447286321199499070644378662109375,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aipkx2rrhkx0xgud1d",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Los Angeles Lakers - Memphis Grizzlies",
+        "colClassNameTime": "datet t1682215200-1-1-0-0"
+      },
+      {
+        "id": 6641795,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17784643,
+        "away": 17784642,
+        "home-name": "Miami Heat",
+        "away-name": "Milwaukee Bucks",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/ITLMj89K-hrxbSkzm.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/AVrbaDmh-xrW85HXg.png?231108120042"
+        ],
+        "encodeEventId": "0SvP5xqH",
+        "colClassName": "datet t1682206200-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/miami-heat-milwaukee-bucks-0SvP5xqH/",
+        "date-start-base": 1682206200,
+        "date-start-timestamp": 1682206200,
+        "result": "121:99",
+        "homeResult": "121",
+        "awayResult": "99",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "121:99",
+        "info": [
+          {
+            "name": "3rd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Miami Heat leads series 2-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "29:21, 37:32, 28:26, 27:20",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 2.1699999999999999289457264239899814128875732421875,
+            "bettingTypeId": 3,
+            "eventId": 6641795,
+            "maxOdds": 2.29999999999999982236431605997495353221893310546875,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6am43x2rrhkx0xgunq3",
+            "maxOddsProviderId": 641,
+            "active": true
+          },
+          {
+            "avgOdds": 1.729999999999999982236431605997495353221893310546875,
+            "bettingTypeId": 3,
+            "eventId": 6641795,
+            "maxOdds": 1.79000000000000003552713678800500929355621337890625,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6am43x2rrhkx0xgunq2",
+            "maxOddsProviderId": 18,
+            "active": true
+          }
+        ],
+        "name": "Miami Heat - Milwaukee Bucks",
+        "colClassNameTime": "datet t1682206200-1-1-0-0"
+      },
+      {
+        "id": 6638395,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773628,
+        "away": 17773627,
+        "home-name": "Los Angeles Clippers",
+        "away-name": "Phoenix Suns",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/44ATliBK-tt2M10fr.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/4nxPQdWE-4bqaxRtQ.png?231108120042"
+        ],
+        "encodeEventId": "bP5m97u0",
+        "colClassName": "datet t1682191800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/los-angeles-clippers-phoenix-suns-bP5m97u0/",
+        "date-start-base": 1682191800,
+        "date-start-timestamp": 1682191800,
+        "result": "100:112",
+        "homeResult": "100",
+        "awayResult": "112",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "100:112",
+        "info": [
+          {
+            "name": "4th leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Phoenix Suns leads series 3-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "30:23, 17:25, 31:35, 22:29",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 3.569999999999999840127884453977458178997039794921875,
+            "bettingTypeId": 3,
+            "eventId": 6638395,
+            "maxOdds": 4.03000000000000024868995751603506505489349365234375,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aiprx2rrhkx0xgud1s",
+            "maxOddsProviderId": 575,
+            "active": true
+          },
+          {
+            "avgOdds": 1.3200000000000000621724893790087662637233734130859375,
+            "bettingTypeId": 3,
+            "eventId": 6638395,
+            "maxOdds": 1.4199999999999999289457264239899814128875732421875,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aiprx2rrhkx0xgud1r",
+            "maxOddsProviderId": 470,
+            "active": true
+          }
+        ],
+        "name": "Los Angeles Clippers - Phoenix Suns",
+        "colClassNameTime": "datet t1682191800-1-1-0-0"
+      },
+      {
+        "id": 6638398,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773634,
+        "away": 17773633,
+        "home-name": "Brooklyn Nets",
+        "away-name": "Philadelphia 76ers",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/jZmpuWAK-8lVzlZ65.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/l2po5fTc-4bqaxRtQ.png?231108120042"
+        ],
+        "encodeEventId": "lEb065PI",
+        "colClassName": "datet t1682182800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/brooklyn-nets-philadelphia-76ers-lEb065PI/",
+        "date-start-base": 1682182800,
+        "date-start-timestamp": 1682182800,
+        "result": "88:96",
+        "homeResult": "88",
+        "awayResult": "96",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "88:96",
+        "info": [
+          {
+            "name": "4th leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Philadelphia 76ers wins series 4-0.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "29:22, 19:18, 15:26, 25:30",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 2.1699999999999999289457264239899814128875732421875,
+            "bettingTypeId": 3,
+            "eventId": 6638398,
+            "maxOdds": 2.850000000000000088817841970012523233890533447265625,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aipux2rrhkx0xgud22",
+            "maxOddsProviderId": 470,
+            "active": true
+          },
+          {
+            "avgOdds": 1.75,
+            "bettingTypeId": 3,
+            "eventId": 6638398,
+            "maxOdds": 1.8200000000000000621724893790087662637233734130859375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aipux2rrhkx0xgud21",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Brooklyn Nets - Philadelphia 76ers",
+        "colClassNameTime": "datet t1682182800-1-1-0-0"
+      },
+      {
+        "id": 6641857,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17784767,
+        "away": 17784766,
+        "home-name": "Minnesota Timberwolves",
+        "away-name": "Denver Nuggets",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/Aa2e7DRc-KbXk58wB.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/Ol9hPPVE-vXFf6tnR.png?231108120042"
+        ],
+        "encodeEventId": "htjgoQJN",
+        "colClassName": "datet t1682127000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/minnesota-timberwolves-denver-nuggets-htjgoQJN/",
+        "date-start-base": 1682127000,
+        "date-start-timestamp": 1682127000,
+        "result": "111:120",
+        "homeResult": "111",
+        "awayResult": "120",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "111:120",
+        "info": [
+          {
+            "name": "3rd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Denver Nuggets leads series 3-0.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "28:28, 27:33, 33:33, 23:26",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 2.029999999999999804600747665972448885440826416015625,
+            "bettingTypeId": 3,
+            "eventId": 6641857,
+            "maxOdds": 2.12999999999999989341858963598497211933135986328125,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6am61x2rrhkx0xguntv",
+            "maxOddsProviderId": 470,
+            "active": true
+          },
+          {
+            "avgOdds": 1.8400000000000000799360577730112709105014801025390625,
+            "bettingTypeId": 3,
+            "eventId": 6641857,
+            "maxOdds": 1.9099999999999999200639422269887290894985198974609375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6am61x2rrhkx0xguntu",
+            "maxOddsProviderId": 18,
+            "active": true
+          }
+        ],
+        "name": "Minnesota Timberwolves - Denver Nuggets",
+        "colClassNameTime": "datet t1682127000-1-1-0-0"
+      },
+      {
+        "id": 6638400,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773638,
+        "away": 17773637,
+        "home-name": "New York Knicks",
+        "away-name": "Cleveland Cavaliers",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/bczR49Tc-I30Q0K9l.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/ABt7mTAK-IaEbD3De.png?231108120042"
+        ],
+        "encodeEventId": "UPkwEHrP",
+        "colClassName": "datet t1682123400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/new-york-knicks-cleveland-cavaliers-UPkwEHrP/",
+        "date-start-base": 1682123400,
+        "date-start-timestamp": 1682123400,
+        "result": "99:79",
+        "homeResult": "99",
+        "awayResult": "79",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "99:79",
+        "info": [
+          {
+            "name": "3rd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "New York Knicks leads series 2-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "17:17, 28:15, 27:23, 27:24",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.8000000000000000444089209850062616169452667236328125,
+            "bettingTypeId": 3,
+            "eventId": 6638400,
+            "maxOdds": 1.8600000000000000976996261670137755572795867919921875,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aiq0x2rrhkx0xgud26",
+            "maxOddsProviderId": 641,
+            "active": true
+          },
+          {
+            "avgOdds": 2.0800000000000000710542735760100185871124267578125,
+            "bettingTypeId": 3,
+            "eventId": 6638400,
+            "maxOdds": 2.20000000000000017763568394002504646778106689453125,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aiq0x2rrhkx0xgud25",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "New York Knicks - Cleveland Cavaliers",
+        "colClassNameTime": "datet t1682123400-1-1-0-0"
+      },
+      {
+        "id": 6638385,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773608,
+        "away": 17773607,
+        "home-name": "Atlanta Hawks",
+        "away-name": "Boston Celtics",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/OjiL727n-4bqaxRtQ.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/MVgCbbj9-0tHj7MWK.png?231108120042"
+        ],
+        "encodeEventId": "C8s6dUef",
+        "colClassName": "datet t1682118000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/atlanta-hawks-boston-celtics-C8s6dUef/",
+        "date-start-base": 1682118000,
+        "date-start-timestamp": 1682118000,
+        "result": "130:122",
+        "homeResult": "130",
+        "awayResult": "122",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "130:122",
+        "info": [
+          {
+            "name": "3rd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Boston Celtics leads series 2-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "33:37, 41:30, 26:26, 30:29",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 2.87999999999999989341858963598497211933135986328125,
+            "bettingTypeId": 3,
+            "eventId": 6638385,
+            "maxOdds": 3.069999999999999840127884453977458178997039794921875,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aiphx2rrhkx0xgud18",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 1.4499999999999999555910790149937383830547332763671875,
+            "bettingTypeId": 3,
+            "eventId": 6638385,
+            "maxOdds": 1.479999999999999982236431605997495353221893310546875,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aiphx2rrhkx0xgud17",
+            "maxOddsProviderId": 18,
+            "active": true
+          }
+        ],
+        "name": "Atlanta Hawks - Boston Celtics",
+        "colClassNameTime": "datet t1682118000-1-1-0-0"
+      },
+      {
+        "id": 6638394,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773626,
+        "away": 17773625,
+        "home-name": "Los Angeles Clippers",
+        "away-name": "Phoenix Suns",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/44ATliBK-tt2M10fr.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/4nxPQdWE-4bqaxRtQ.png?231108120042"
+        ],
+        "encodeEventId": "KY6qAmQg",
+        "colClassName": "datet t1682044200-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/los-angeles-clippers-phoenix-suns-KY6qAmQg/",
+        "date-start-base": 1682044200,
+        "date-start-timestamp": 1682044200,
+        "result": "124:129",
+        "homeResult": "124",
+        "awayResult": "129",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "124:129",
+        "info": [
+          {
+            "name": "3rd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Phoenix Suns leads series 2-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "27:27, 24:27, 34:40, 39:35",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 3.600000000000000088817841970012523233890533447265625,
+            "bettingTypeId": 3,
+            "eventId": 6638394,
+            "maxOdds": 4.03000000000000024868995751603506505489349365234375,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aipqx2rrhkx0xgud1q",
+            "maxOddsProviderId": 575,
+            "active": true
+          },
+          {
+            "avgOdds": 1.3300000000000000710542735760100185871124267578125,
+            "bettingTypeId": 3,
+            "eventId": 6638394,
+            "maxOdds": 1.70999999999999996447286321199499070644378662109375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aipqx2rrhkx0xgud1p",
+            "maxOddsProviderId": 470,
+            "active": true
+          }
+        ],
+        "name": "Los Angeles Clippers - Phoenix Suns",
+        "colClassNameTime": "datet t1682044200-1-1-0-0"
+      },
+      {
+        "id": 6638391,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773620,
+        "away": 17773619,
+        "home-name": "Golden State Warriors",
+        "away-name": "Sacramento Kings",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/lf5zrq6n-M5fifScn.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/QBWK6QRc-I30Q0K9l.png?231108120042"
+        ],
+        "encodeEventId": "6RQ8GkmQ",
+        "colClassName": "datet t1682042400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/golden-state-warriors-sacramento-kings-6RQ8GkmQ/",
+        "date-start-base": 1682042400,
+        "date-start-timestamp": 1682042400,
+        "result": "114:97",
+        "homeResult": "114",
+        "awayResult": "97",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "114:97",
+        "info": [
+          {
+            "name": "3rd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Sacramento Kings leads series 2-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "29:20, 24:21, 31:31, 30:25",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.399999999999999911182158029987476766109466552734375,
+            "bettingTypeId": 3,
+            "eventId": 6638391,
+            "maxOdds": 1.4499999999999999555910790149937383830547332763671875,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aipnx2rrhkx0xgud1k",
+            "maxOddsProviderId": 470,
+            "active": true
+          },
+          {
+            "avgOdds": 3.089999999999999857891452847979962825775146484375,
+            "bettingTypeId": 3,
+            "eventId": 6638391,
+            "maxOdds": 3.270000000000000017763568394002504646778106689453125,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aipnx2rrhkx0xgud1j",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Golden State Warriors - Sacramento Kings",
+        "colClassNameTime": "datet t1682042400-1-1-0-0"
+      },
+      {
+        "id": 6638397,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773632,
+        "away": 17773631,
+        "home-name": "Brooklyn Nets",
+        "away-name": "Philadelphia 76ers",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/jZmpuWAK-8lVzlZ65.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/l2po5fTc-4bqaxRtQ.png?231108120042"
+        ],
+        "encodeEventId": "fiad7oAC",
+        "colClassName": "datet t1682033400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/brooklyn-nets-philadelphia-76ers-fiad7oAC/",
+        "date-start-base": 1682033400,
+        "date-start-timestamp": 1682033400,
+        "result": "97:102",
+        "homeResult": "97",
+        "awayResult": "102",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "97:102",
+        "info": [
+          {
+            "name": "3rd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Philadelphia 76ers leads series 3-0.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "28:32, 19:26, 35:18, 15:26",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 2.720000000000000195399252334027551114559173583984375,
+            "bettingTypeId": 3,
+            "eventId": 6638397,
+            "maxOdds": 2.87000000000000010658141036401502788066864013671875,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aiptx2rrhkx0xgud20",
+            "maxOddsProviderId": 641,
+            "active": true
+          },
+          {
+            "avgOdds": 1.4899999999999999911182158029987476766109466552734375,
+            "bettingTypeId": 3,
+            "eventId": 6638397,
+            "maxOdds": 1.520000000000000017763568394002504646778106689453125,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aiptx2rrhkx0xgud1v",
+            "maxOddsProviderId": 470,
+            "active": true
+          }
+        ],
+        "name": "Brooklyn Nets - Philadelphia 76ers",
+        "colClassNameTime": "datet t1682033400-1-1-0-0"
+      },
+      {
+        "id": 6641856,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17784764,
+        "away": 17784765,
+        "home-name": "Denver Nuggets",
+        "away-name": "Minnesota Timberwolves",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/Ol9hPPVE-vXFf6tnR.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/Aa2e7DRc-KbXk58wB.png?231108120042"
+        ],
+        "encodeEventId": "Ekikn64H",
+        "colClassName": "datet t1681956000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/denver-nuggets-minnesota-timberwolves-Ekikn64H/",
+        "date-start-base": 1681956000,
+        "date-start-timestamp": 1681956000,
+        "result": "122:113",
+        "homeResult": "122",
+        "awayResult": "113",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "122:113",
+        "info": [
+          {
+            "name": "2nd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Denver Nuggets leads series 2-0.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "31:22, 33:27, 23:40, 35:24",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.2800000000000000266453525910037569701671600341796875,
+            "bettingTypeId": 3,
+            "eventId": 6641856,
+            "maxOdds": 1.3000000000000000444089209850062616169452667236328125,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6am60x2rrhkx0xgunts",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 3.910000000000000142108547152020037174224853515625,
+            "bettingTypeId": 3,
+            "eventId": 6641856,
+            "maxOdds": 4.3300000000000000710542735760100185871124267578125,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6am60x2rrhkx0xguntt",
+            "maxOddsProviderId": 575,
+            "active": true
+          }
+        ],
+        "name": "Denver Nuggets - Minnesota Timberwolves",
+        "colClassNameTime": "datet t1681956000-1-1-0-0"
+      },
+      {
+        "id": 6641794,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17784640,
+        "away": 17784641,
+        "home-name": "Milwaukee Bucks",
+        "away-name": "Miami Heat",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/AVrbaDmh-xrW85HXg.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/ITLMj89K-hrxbSkzm.png?231108120042"
+        ],
+        "encodeEventId": "MytL6ITA",
+        "colClassName": "datet t1681952400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/milwaukee-bucks-miami-heat-MytL6ITA/",
+        "date-start-base": 1681952400,
+        "date-start-timestamp": 1681952400,
+        "result": "138:122",
+        "homeResult": "138",
+        "awayResult": "122",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "138:122",
+        "info": [
+          {
+            "name": "2nd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Series tied 1-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "35:28, 46:27, 37:30, 20:37",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.4099999999999999200639422269887290894985198974609375,
+            "bettingTypeId": 3,
+            "eventId": 6641794,
+            "maxOdds": 1.4699999999999999733546474089962430298328399658203125,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6am42x2rrhkx0xgunq0",
+            "maxOddsProviderId": 5,
+            "active": true
+          },
+          {
+            "avgOdds": 3.04000000000000003552713678800500929355621337890625,
+            "bettingTypeId": 3,
+            "eventId": 6641794,
+            "maxOdds": 3.319999999999999840127884453977458178997039794921875,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6am42x2rrhkx0xgunq1",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Milwaukee Bucks - Miami Heat",
+        "colClassNameTime": "datet t1681952400-1-1-0-0"
+      },
+      {
+        "id": 6638387,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773611,
+        "away": 17773612,
+        "home-name": "Memphis Grizzlies",
+        "away-name": "Los Angeles Lakers",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/CGrPMuhQ-tt2M10fr.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/xGkB4oTc-6y7aqqwb.png?231108120042"
+        ],
+        "encodeEventId": "pMuEf8Q6",
+        "colClassName": "datet t1681947000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/memphis-grizzlies-los-angeles-lakers-pMuEf8Q6/",
+        "date-start-base": 1681947000,
+        "date-start-timestamp": 1681947000,
+        "result": "103:93",
+        "homeResult": "103",
+        "awayResult": "93",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "103:93",
+        "info": [
+          {
+            "name": "2nd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Series tied 1-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "30:19, 29:25, 24:27, 20:22",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.95999999999999996447286321199499070644378662109375,
+            "bettingTypeId": 3,
+            "eventId": 6638387,
+            "maxOdds": 2.020000000000000017763568394002504646778106689453125,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aipjx2rrhkx0xgud1b",
+            "maxOddsProviderId": 5,
+            "active": true
+          },
+          {
+            "avgOdds": 1.899999999999999911182158029987476766109466552734375,
+            "bettingTypeId": 3,
+            "eventId": 6638387,
+            "maxOdds": 1.9699999999999999733546474089962430298328399658203125,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aipjx2rrhkx0xgud1c",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Memphis Grizzlies - Los Angeles Lakers",
+        "colClassNameTime": "datet t1681947000-1-1-0-0"
+      },
+      {
+        "id": 6638393,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773623,
+        "away": 17773624,
+        "home-name": "Phoenix Suns",
+        "away-name": "Los Angeles Clippers",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/4nxPQdWE-4bqaxRtQ.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/44ATliBK-tt2M10fr.png?231108120042"
+        ],
+        "encodeEventId": "ja2uBTAm",
+        "colClassName": "datet t1681869600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/phoenix-suns-los-angeles-clippers-ja2uBTAm/",
+        "date-start-base": 1681869600,
+        "date-start-timestamp": 1681869600,
+        "result": "123:109",
+        "homeResult": "123",
+        "awayResult": "109",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "123:109",
+        "info": [
+          {
+            "name": "2nd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Series tied 1-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "24:29, 35:30, 33:28, 31:22",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.29000000000000003552713678800500929355621337890625,
+            "bettingTypeId": 3,
+            "eventId": 6638393,
+            "maxOdds": 1.3200000000000000621724893790087662637233734130859375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aippx2rrhkx0xgud1n",
+            "maxOddsProviderId": 470,
+            "active": true
+          },
+          {
+            "avgOdds": 3.79000000000000003552713678800500929355621337890625,
+            "bettingTypeId": 3,
+            "eventId": 6638393,
+            "maxOdds": 4.1500000000000003552713678800500929355621337890625,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aippx2rrhkx0xgud1o",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Phoenix Suns - Los Angeles Clippers",
+        "colClassNameTime": "datet t1681869600-1-1-0-0"
+      },
+      {
+        "id": 6638399,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773635,
+        "away": 17773636,
+        "home-name": "Cleveland Cavaliers",
+        "away-name": "New York Knicks",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/ABt7mTAK-IaEbD3De.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/bczR49Tc-I30Q0K9l.png?231108120042"
+        ],
+        "encodeEventId": "S4c45PvP",
+        "colClassName": "datet t1681860600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/cleveland-cavaliers-new-york-knicks-S4c45PvP/",
+        "date-start-base": 1681860600,
+        "date-start-timestamp": 1681860600,
+        "result": "107:90",
+        "homeResult": "107",
+        "awayResult": "90",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "107:90",
+        "info": [
+          {
+            "name": "2nd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Series tied 1-1.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "25:22, 34:17, 23:21, 25:30",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.4299999999999999378275106209912337362766265869140625,
+            "bettingTypeId": 3,
+            "eventId": 6638399,
+            "maxOdds": 1.4699999999999999733546474089962430298328399658203125,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aipvx2rrhkx0xgud23",
+            "maxOddsProviderId": 641,
+            "active": true
+          },
+          {
+            "avgOdds": 2.939999999999999946709294817992486059665679931640625,
+            "bettingTypeId": 3,
+            "eventId": 6638399,
+            "maxOdds": 3.04999999999999982236431605997495353221893310546875,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aipvx2rrhkx0xgud24",
+            "maxOddsProviderId": 15,
+            "active": true
+          }
+        ],
+        "name": "Cleveland Cavaliers - New York Knicks",
+        "colClassNameTime": "datet t1681860600-1-1-0-0"
+      },
+      {
+        "id": 6638384,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773605,
+        "away": 17773606,
+        "home-name": "Boston Celtics",
+        "away-name": "Atlanta Hawks",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/MVgCbbj9-0tHj7MWK.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/OjiL727n-4bqaxRtQ.png?231108120042"
+        ],
+        "encodeEventId": "b5w2cAtl",
+        "colClassName": "datet t1681858800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/boston-celtics-atlanta-hawks-b5w2cAtl/",
+        "date-start-base": 1681858800,
+        "date-start-timestamp": 1681858800,
+        "result": "119:106",
+        "homeResult": "119",
+        "awayResult": "106",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "119:106",
+        "info": [
+          {
+            "name": "2nd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Boston Celtics leads series 2-0.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "28:25, 33:24, 29:32, 29:25",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.1999999999999999555910790149937383830547332763671875,
+            "bettingTypeId": 3,
+            "eventId": 6638384,
+            "maxOdds": 1.229999999999999982236431605997495353221893310546875,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aipgx2rrhkx0xgud15",
+            "maxOddsProviderId": 641,
+            "active": true
+          },
+          {
+            "avgOdds": 4.92999999999999971578290569595992565155029296875,
+            "bettingTypeId": 3,
+            "eventId": 6638384,
+            "maxOdds": 5.54000000000000003552713678800500929355621337890625,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aipgx2rrhkx0xgud16",
+            "maxOddsProviderId": 575,
+            "active": true
+          }
+        ],
+        "name": "Boston Celtics - Atlanta Hawks",
+        "colClassNameTime": "datet t1681858800-1-1-0-0"
+      },
+      {
+        "id": 6638390,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773617,
+        "away": 17773618,
+        "home-name": "Sacramento Kings",
+        "away-name": "Golden State Warriors",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/QBWK6QRc-I30Q0K9l.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/lf5zrq6n-M5fifScn.png?231108120042"
+        ],
+        "encodeEventId": "fiN4HVXJ",
+        "colClassName": "datet t1681783200-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/sacramento-kings-golden-state-warriors-fiN4HVXJ/",
+        "date-start-base": 1681783200,
+        "date-start-timestamp": 1681783200,
+        "result": "114:106",
+        "homeResult": "114",
+        "awayResult": "106",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "114:106",
+        "info": [
+          {
+            "name": "2nd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Sacramento Kings leads series 2-0.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "17:23, 41:29, 25:23, 31:31",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 2.180000000000000159872115546022541821002960205078125,
+            "bettingTypeId": 3,
+            "eventId": 6638390,
+            "maxOdds": 2.2599999999999997868371792719699442386627197265625,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aipmx2rrhkx0xgud1h",
+            "maxOddsProviderId": 641,
+            "active": true
+          },
+          {
+            "avgOdds": 1.7399999999999999911182158029987476766109466552734375,
+            "bettingTypeId": 3,
+            "eventId": 6638390,
+            "maxOdds": 1.810000000000000053290705182007513940334320068359375,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aipmx2rrhkx0xgud1i",
+            "maxOddsProviderId": 18,
+            "active": true
+          }
+        ],
+        "name": "Sacramento Kings - Golden State Warriors",
+        "colClassNameTime": "datet t1681783200-1-1-0-0"
+      },
+      {
+        "id": 6638396,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773629,
+        "away": 17773630,
+        "home-name": "Philadelphia 76ers",
+        "away-name": "Brooklyn Nets",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/l2po5fTc-4bqaxRtQ.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/jZmpuWAK-8lVzlZ65.png?231108120042"
+        ],
+        "encodeEventId": "tleh8Rf6",
+        "colClassName": "datet t1681774200-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/philadelphia-76ers-brooklyn-nets-tleh8Rf6/",
+        "date-start-base": 1681774200,
+        "date-start-timestamp": 1681774200,
+        "result": "96:84",
+        "homeResult": "96",
+        "awayResult": "84",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "96:84",
+        "info": [
+          {
+            "name": "2nd leg.",
+            "sort_key": 0
+          },
+          {
+            "name": "Philadelphia 76ers leads series 2-0.",
+            "sort_key": 1
+          }
+        ],
+        "partialresult": "25:25, 19:24, 24:14, 28:21",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.20999999999999996447286321199499070644378662109375,
+            "bettingTypeId": 3,
+            "eventId": 6638396,
+            "maxOdds": 1.2399999999999999911182158029987476766109466552734375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aipsx2rrhkx0xgud1t",
+            "maxOddsProviderId": 641,
+            "active": true
+          },
+          {
+            "avgOdds": 4.62999999999999989341858963598497211933135986328125,
+            "bettingTypeId": 3,
+            "eventId": 6638396,
+            "maxOdds": 5.0999999999999996447286321199499070644378662109375,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aipsx2rrhkx0xgud1u",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Philadelphia 76ers - Brooklyn Nets",
+        "colClassNameTime": "datet t1681774200-1-1-0-0"
+      },
+      {
+        "id": 6641855,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17784762,
+        "away": 17784763,
+        "home-name": "Denver Nuggets",
+        "away-name": "Minnesota Timberwolves",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/Ol9hPPVE-vXFf6tnR.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/Aa2e7DRc-KbXk58wB.png?231108120042"
+        ],
+        "encodeEventId": "YwzhmnkB",
+        "colClassName": "datet t1681698600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/denver-nuggets-minnesota-timberwolves-YwzhmnkB/",
+        "date-start-base": 1681698600,
+        "date-start-timestamp": 1681698600,
+        "result": "109:80",
+        "homeResult": "109",
+        "awayResult": "80",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "109:80",
+        "info": [
+          {
+            "name": "1st leg.",
+            "sort_key": 0
+          }
+        ],
+        "partialresult": "26:23, 29:21, 32:14, 22:22",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.29000000000000003552713678800500929355621337890625,
+            "bettingTypeId": 3,
+            "eventId": 6641855,
+            "maxOdds": 1.3200000000000000621724893790087662637233734130859375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6am5vx2rrhkx0xguntq",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 3.810000000000000053290705182007513940334320068359375,
+            "bettingTypeId": 3,
+            "eventId": 6641855,
+            "maxOdds": 4.3300000000000000710542735760100185871124267578125,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6am5vx2rrhkx0xguntr",
+            "maxOddsProviderId": 575,
+            "active": true
+          }
+        ],
+        "name": "Denver Nuggets - Minnesota Timberwolves",
+        "colClassNameTime": "datet t1681698600-1-1-0-0"
+      },
+      {
+        "id": 6633176,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17757443,
+        "away": 17757444,
+        "home-name": "Phoenix Suns",
+        "away-name": "Los Angeles Clippers",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/4nxPQdWE-4bqaxRtQ.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/44ATliBK-tt2M10fr.png?231108120042"
+        ],
+        "encodeEventId": "WjqG2P60",
+        "colClassName": "datet t1681689600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/phoenix-suns-los-angeles-clippers-WjqG2P60/",
+        "date-start-base": 1681689600,
+        "date-start-timestamp": 1681689600,
+        "result": "110:115",
+        "homeResult": "110",
+        "awayResult": "115",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "110:115",
+        "info": [
+          {
+            "name": "1st leg.",
+            "sort_key": 0
+          }
+        ],
+        "partialresult": "18:30, 36:29, 27:22, 29:34",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 1.3300000000000000710542735760100185871124267578125,
+            "bettingTypeId": 3,
+            "eventId": 6633176,
+            "maxOdds": 1.3600000000000000976996261670137755572795867919921875,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6admox2rrhkx0xgtt83",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 3.5800000000000000710542735760100185871124267578125,
+            "bettingTypeId": 3,
+            "eventId": 6633176,
+            "maxOdds": 3.850000000000000088817841970012523233890533447265625,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6admox2rrhkx0xgtt84",
+            "maxOddsProviderId": 575,
+            "active": true
+          }
+        ],
+        "name": "Phoenix Suns - Los Angeles Clippers",
+        "colClassNameTime": "datet t1681689600-1-1-0-0"
+      },
+      {
+        "id": 6641793,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17784638,
+        "away": 17784639,
+        "home-name": "Milwaukee Bucks",
+        "away-name": "Miami Heat",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/AVrbaDmh-xrW85HXg.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/ITLMj89K-hrxbSkzm.png?231108120042"
+        ],
+        "encodeEventId": "SEtH7bE4",
+        "colClassName": "datet t1681680600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/milwaukee-bucks-miami-heat-SEtH7bE4/",
+        "date-start-base": 1681680600,
+        "date-start-timestamp": 1681680600,
+        "result": "117:130",
+        "homeResult": "117",
+        "awayResult": "130",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "117:130",
+        "info": [
+          {
+            "name": "1st leg.",
+            "sort_key": 0
+          }
+        ],
+        "partialresult": "24:33, 31:35, 33:34, 29:28",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": null,
+        "bookmakersCount": 14,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 1.229999999999999982236431605997495353221893310546875,
+            "bettingTypeId": 3,
+            "eventId": 6641793,
+            "maxOdds": 1.2600000000000000088817841970012523233890533447265625,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6am41x2rrhkx0xgunpu",
+            "maxOddsProviderId": 18,
+            "active": true
+          },
+          {
+            "avgOdds": 4.4900000000000002131628207280300557613372802734375,
+            "bettingTypeId": 3,
+            "eventId": 6641793,
+            "maxOdds": 4.9000000000000003552713678800500929355621337890625,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6am41x2rrhkx0xgunpv",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Milwaukee Bucks - Miami Heat",
+        "colClassNameTime": "datet t1681680600-1-1-0-0"
+      },
+      {
+        "id": 6636689,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17768127,
+        "away": 17768128,
+        "home-name": "Memphis Grizzlies",
+        "away-name": "Los Angeles Lakers",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/CGrPMuhQ-tt2M10fr.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/xGkB4oTc-6y7aqqwb.png?231108120042"
+        ],
+        "encodeEventId": "xjkDmaIU",
+        "colClassName": "datet t1681671600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/memphis-grizzlies-los-angeles-lakers-xjkDmaIU/",
+        "date-start-base": 1681671600,
+        "date-start-timestamp": 1681671600,
+        "result": "112:128",
+        "homeResult": "112",
+        "awayResult": "128",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "112:128",
+        "info": [
+          {
+            "name": "1st leg.",
+            "sort_key": 0
+          }
+        ],
+        "partialresult": "27:32, 38:27, 25:37, 22:32",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 1.520000000000000017763568394002504646778106689453125,
+            "bettingTypeId": 3,
+            "eventId": 6636689,
+            "maxOdds": 1.5700000000000000621724893790087662637233734130859375,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6ah4hx2rrhkx0xgu7lv",
+            "maxOddsProviderId": 641,
+            "active": true
+          },
+          {
+            "avgOdds": 2.640000000000000124344978758017532527446746826171875,
+            "bettingTypeId": 3,
+            "eventId": 6636689,
+            "maxOdds": 2.7599999999999997868371792719699442386627197265625,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6ah4hx2rrhkx0xgu7m0",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Memphis Grizzlies - Los Angeles Lakers",
+        "colClassNameTime": "datet t1681671600-1-1-0-0"
+      },
+      {
+        "id": 6633096,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17757277,
+        "away": 17757278,
+        "home-name": "Sacramento Kings",
+        "away-name": "Golden State Warriors",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/QBWK6QRc-I30Q0K9l.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/lf5zrq6n-M5fifScn.png?231108120042"
+        ],
+        "encodeEventId": "SKZVeaXf",
+        "colClassName": "datet t1681605000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/sacramento-kings-golden-state-warriors-SKZVeaXf/",
+        "date-start-base": 1681605000,
+        "date-start-timestamp": 1681605000,
+        "result": "126:123",
+        "homeResult": "126",
+        "awayResult": "123",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "126:123",
+        "info": [
+          {
+            "name": "1st leg.",
+            "sort_key": 0
+          }
+        ],
+        "partialresult": "29:29, 26:32, 36:29, 35:33",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.8600000000000000976996261670137755572795867919921875,
+            "bettingTypeId": 3,
+            "eventId": 6633096,
+            "maxOdds": 1.8899999999999999023003738329862244427204132080078125,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6adk8x2rrhkx0xgtt2t",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 2.0099999999999997868371792719699442386627197265625,
+            "bettingTypeId": 3,
+            "eventId": 6633096,
+            "maxOdds": 2.0800000000000000710542735760100185871124267578125,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6adk8x2rrhkx0xgtt2u",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Sacramento Kings - Golden State Warriors",
+        "colClassNameTime": "datet t1681605000-1-1-0-0"
+      },
+      {
+        "id": 6633098,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17757281,
+        "away": 17757282,
+        "home-name": "Cleveland Cavaliers",
+        "away-name": "New York Knicks",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/ABt7mTAK-IaEbD3De.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/bczR49Tc-I30Q0K9l.png?231108120042"
+        ],
+        "encodeEventId": "0YXwfw27",
+        "colClassName": "datet t1681596000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/cleveland-cavaliers-new-york-knicks-0YXwfw27/",
+        "date-start-base": 1681596000,
+        "date-start-timestamp": 1681596000,
+        "result": "97:101",
+        "homeResult": "97",
+        "awayResult": "101",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "97:101",
+        "info": [
+          {
+            "name": "1st leg.",
+            "sort_key": 0
+          }
+        ],
+        "partialresult": "24:30, 21:20, 25:28, 27:23",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 1.4699999999999999733546474089962430298328399658203125,
+            "bettingTypeId": 3,
+            "eventId": 6633098,
+            "maxOdds": 1.5100000000000000088817841970012523233890533447265625,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6adkax2rrhkx0xgtt31",
+            "maxOddsProviderId": 18,
+            "active": true
+          },
+          {
+            "avgOdds": 2.810000000000000053290705182007513940334320068359375,
+            "bettingTypeId": 3,
+            "eventId": 6633098,
+            "maxOdds": 2.95000000000000017763568394002504646778106689453125,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6adkax2rrhkx0xgtt32",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Cleveland Cavaliers - New York Knicks",
+        "colClassNameTime": "datet t1681596000-1-1-0-0"
+      },
+      {
+        "id": 6636682,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17768113,
+        "away": 17768114,
+        "home-name": "Boston Celtics",
+        "away-name": "Atlanta Hawks",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/MVgCbbj9-0tHj7MWK.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/OjiL727n-4bqaxRtQ.png?231108120042"
+        ],
+        "encodeEventId": "Yi5qfqZn",
+        "colClassName": "datet t1681587000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/boston-celtics-atlanta-hawks-Yi5qfqZn/",
+        "date-start-base": 1681587000,
+        "date-start-timestamp": 1681587000,
+        "result": "112:99",
+        "homeResult": "112",
+        "awayResult": "99",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "112:99",
+        "info": [
+          {
+            "name": "1st leg.",
+            "sort_key": 0
+          }
+        ],
+        "partialresult": "29:19, 45:25, 20:31, 18:24",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.2199999999999999733546474089962430298328399658203125,
+            "bettingTypeId": 3,
+            "eventId": 6636682,
+            "maxOdds": 1.2399999999999999911182158029987476766109466552734375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6ah4ax2rrhkx0xgu7lh",
+            "maxOddsProviderId": 641,
+            "active": true
+          },
+          {
+            "avgOdds": 4.5999999999999996447286321199499070644378662109375,
+            "bettingTypeId": 3,
+            "eventId": 6636682,
+            "maxOdds": 5.0999999999999996447286321199499070644378662109375,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6ah4ax2rrhkx0xgu7li",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Boston Celtics - Atlanta Hawks",
+        "colClassNameTime": "datet t1681587000-1-1-0-0"
+      },
+      {
+        "id": 6633097,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17757279,
+        "away": 17757280,
+        "home-name": "Philadelphia 76ers",
+        "away-name": "Brooklyn Nets",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104091,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/l2po5fTc-4bqaxRtQ.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/jZmpuWAK-8lVzlZ65.png?231108120042"
+        ],
+        "encodeEventId": "6BYZfJn1",
+        "colClassName": "datet t1681578000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/philadelphia-76ers-brooklyn-nets-6BYZfJn1/",
+        "date-start-base": 1681578000,
+        "date-start-timestamp": 1681578000,
+        "result": "121:101",
+        "homeResult": "121",
+        "awayResult": "101",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "121:101",
+        "info": [
+          {
+            "name": "1st leg.",
+            "sort_key": 0
+          }
+        ],
+        "partialresult": "30:25, 37:33, 26:23, 28:20",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.270000000000000017763568394002504646778106689453125,
+            "bettingTypeId": 3,
+            "eventId": 6633097,
+            "maxOdds": 1.310000000000000053290705182007513940334320068359375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6adk9x2rrhkx0xgtt2v",
+            "maxOddsProviderId": 641,
+            "active": true
+          },
+          {
+            "avgOdds": 3.9900000000000002131628207280300557613372802734375,
+            "bettingTypeId": 3,
+            "eventId": 6633097,
+            "maxOdds": 4.20000000000000017763568394002504646778106689453125,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6adk9x2rrhkx0xgtt30",
+            "maxOddsProviderId": 15,
+            "active": true
+          }
+        ],
+        "name": "Philadelphia 76ers - Brooklyn Nets",
+        "colClassNameTime": "datet t1681578000-1-1-0-0"
+      },
+      {
+        "id": 6638357,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773518,
+        "away": 17773519,
+        "home-name": "Minnesota Timberwolves",
+        "away-name": "Oklahoma City Thunder",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 127425,
+        "tournament-stage-type-id": 86,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Promotion - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/Aa2e7DRc-KbXk58wB.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/QmSxnnPt-zobYbbv1.png?231108120042"
+        ],
+        "encodeEventId": "CCwjZ0bT",
+        "colClassName": "datet t1681523400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/minnesota-timberwolves-oklahoma-city-thunder-CCwjZ0bT/",
+        "date-start-base": 1681523400,
+        "date-start-timestamp": 1681523400,
+        "result": "120:95",
+        "homeResult": "120",
+        "awayResult": "95",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "120:95",
+        "info": null,
+        "partialresult": "24:23, 33:24, 38:31, 25:17",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.4199999999999999289457264239899814128875732421875,
+            "bettingTypeId": 3,
+            "eventId": 6638357,
+            "maxOdds": 1.45999999999999996447286321199499070644378662109375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aiolx2rrhkx0xgucue",
+            "maxOddsProviderId": 5,
+            "active": true
+          },
+          {
+            "avgOdds": 3,
+            "bettingTypeId": 3,
+            "eventId": 6638357,
+            "maxOdds": 3.12000000000000010658141036401502788066864013671875,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aiolx2rrhkx0xgucuf",
+            "maxOddsProviderId": 575,
+            "active": true
+          }
+        ],
+        "name": "Minnesota Timberwolves - Oklahoma City Thunder",
+        "colClassNameTime": "datet t1681523400-1-1-0-0"
+      },
+      {
+        "id": 6638337,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17773465,
+        "away": 17773466,
+        "home-name": "Miami Heat",
+        "away-name": "Chicago Bulls",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 127425,
+        "tournament-stage-type-id": 86,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Promotion - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/ITLMj89K-hrxbSkzm.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/dE7RCWkQ-pbWMuxZT.png?231108120042"
+        ],
+        "encodeEventId": "lhFPMW86",
+        "colClassName": "datet t1681513800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/miami-heat-chicago-bulls-lhFPMW86/",
+        "date-start-base": 1681513800,
+        "date-start-timestamp": 1681513800,
+        "result": "102:91",
+        "homeResult": "102",
+        "awayResult": "91",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "102:91",
+        "info": null,
+        "partialresult": "29:21, 20:23, 18:24, 35:23",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "164": 1,
+          "163": 1,
+          "46": 1
+        },
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.5100000000000000088817841970012523233890533447265625,
+            "bettingTypeId": 3,
+            "eventId": 6638337,
+            "maxOdds": 1.560000000000000053290705182007513940334320068359375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6aio1x2rrhkx0xgucsp",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 2.689999999999999946709294817992486059665679931640625,
+            "bettingTypeId": 3,
+            "eventId": 6638337,
+            "maxOdds": 2.79999999999999982236431605997495353221893310546875,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6aio1x2rrhkx0xgucsq",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Miami Heat - Chicago Bulls",
+        "colClassNameTime": "datet t1681513800-1-1-0-0"
+      },
+      {
+        "id": 6633071,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17757227,
+        "away": 17757228,
+        "home-name": "New Orleans Pelicans",
+        "away-name": "Oklahoma City Thunder",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 127425,
+        "tournament-stage-type-id": 86,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Promotion - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/llfeFiVE-StvCsRZ7.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/QmSxnnPt-zobYbbv1.png?231108120042"
+        ],
+        "encodeEventId": "dvATigzh",
+        "colClassName": "datet t1681349400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/new-orleans-pelicans-oklahoma-city-thunder-dvATigzh/",
+        "date-start-base": 1681349400,
+        "date-start-timestamp": 1681349400,
+        "result": "118:123",
+        "homeResult": "118",
+        "awayResult": "123",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "118:123",
+        "info": null,
+        "partialresult": "29:32, 34:25, 24:39, 31:27",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 1.4499999999999999555910790149937383830547332763671875,
+            "bettingTypeId": 3,
+            "eventId": 6633071,
+            "maxOdds": 1.5,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6adjfx2rrhkx0xgtt1b",
+            "maxOddsProviderId": 18,
+            "active": true
+          },
+          {
+            "avgOdds": 2.819999999999999840127884453977458178997039794921875,
+            "bettingTypeId": 3,
+            "eventId": 6633071,
+            "maxOdds": 3.04999999999999982236431605997495353221893310546875,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6adjfx2rrhkx0xgtt1c",
+            "maxOddsProviderId": 5,
+            "active": true
+          }
+        ],
+        "name": "New Orleans Pelicans - Oklahoma City Thunder",
+        "colClassNameTime": "datet t1681349400-1-1-0-0"
+      },
+      {
+        "id": 6630531,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17750895,
+        "away": 17750896,
+        "home-name": "Toronto Raptors",
+        "away-name": "Chicago Bulls",
+        "home-country-two-chart-name": "ca",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 127425,
+        "tournament-stage-type-id": 86,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Promotion - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/COGqpVQt-dfaUavPf.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/dE7RCWkQ-pbWMuxZT.png?231108120042"
+        ],
+        "encodeEventId": "pUsOy8SP",
+        "colClassName": "datet t1681340400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/toronto-raptors-chicago-bulls-pUsOy8SP/",
+        "date-start-base": 1681340400,
+        "date-start-timestamp": 1681340400,
+        "result": "105:109",
+        "homeResult": "105",
+        "awayResult": "109",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "105:109",
+        "info": null,
+        "partialresult": "28:23, 30:24, 23:25, 24:37",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 1.4199999999999999289457264239899814128875732421875,
+            "bettingTypeId": 3,
+            "eventId": 6630531,
+            "maxOdds": 1.4499999999999999555910790149937383830547332763671875,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6ab43x2rrhkx0xgtmrf",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 3,
+            "bettingTypeId": 3,
+            "eventId": 6630531,
+            "maxOdds": 3.1699999999999999289457264239899814128875732421875,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6ab43x2rrhkx0xgtmrg",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Toronto Raptors - Chicago Bulls",
+        "colClassNameTime": "datet t1681340400-1-1-0-0"
+      },
+      {
+        "id": 6633070,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17757225,
+        "away": 17757226,
+        "home-name": "Los Angeles Lakers",
+        "away-name": "Minnesota Timberwolves",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 10,
+        "event-stage-id": 10,
+        "event-stage-name": "After Extra Time",
+        "event-stage-name-short": "OT",
+        "tournament_id": 62686,
+        "tournament-stage-id": 127425,
+        "tournament-stage-type-id": 86,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Promotion - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/xGkB4oTc-6y7aqqwb.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/Aa2e7DRc-KbXk58wB.png?231108120042"
+        ],
+        "encodeEventId": "ImBPhZKo",
+        "colClassName": "datet t1681264800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/los-angeles-lakers-minnesota-timberwolves-ImBPhZKo/",
+        "date-start-base": 1681264800,
+        "date-start-timestamp": 1681264800,
+        "result": "&nbsp;OT",
+        "homeResult": "108",
+        "awayResult": "102",
+        "homeTextInResult": "",
+        "awayTextInResult": "OT",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "108:102&nbsp;OT",
+        "info": null,
+        "partialresult": "22:28, 27:32, 30:26, 19:12, 10:4",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "141": 1,
+          "16": 1,
+          "411": 1,
+          "49": 1,
+          "45": 1,
+          "33": 1,
+          "24": 1,
+          "43": 1,
+          "165": 1,
+          "164": 1,
+          "163": 1,
+          "46": 1
+        },
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.270000000000000017763568394002504646778106689453125,
+            "bettingTypeId": 3,
+            "eventId": 6633070,
+            "maxOdds": 1.310000000000000053290705182007513940334320068359375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6adjex2rrhkx0xgtt19",
+            "maxOddsProviderId": 641,
+            "active": true
+          },
+          {
+            "avgOdds": 3.970000000000000195399252334027551114559173583984375,
+            "bettingTypeId": 3,
+            "eventId": 6633070,
+            "maxOdds": 4.3499999999999996447286321199499070644378662109375,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6adjex2rrhkx0xgtt1a",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Los Angeles Lakers - Minnesota Timberwolves",
+        "colClassNameTime": "datet t1681264800-1-1-0-0"
+      },
+      {
+        "id": 6630532,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 17750897,
+        "away": 17750898,
+        "home-name": "Miami Heat",
+        "away-name": "Atlanta Hawks",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 127425,
+        "tournament-stage-type-id": 86,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Promotion - Play Offs",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/ITLMj89K-hrxbSkzm.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/OjiL727n-4bqaxRtQ.png?231108120042"
+        ],
+        "encodeEventId": "jBKjXRzs",
+        "colClassName": "datet t1681255800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/miami-heat-atlanta-hawks-jBKjXRzs/",
+        "date-start-base": 1681255800,
+        "date-start-timestamp": 1681255800,
+        "result": "105:116",
+        "homeResult": "105",
+        "awayResult": "116",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "105:116",
+        "info": null,
+        "partialresult": "27:36, 23:29, 28:26, 27:25",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": [],
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 1.45999999999999996447286321199499070644378662109375,
+            "bettingTypeId": 3,
+            "eventId": 6630532,
+            "maxOdds": 1.5,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "6ab44x2rrhkx0xgtmrh",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 2.810000000000000053290705182007513940334320068359375,
+            "bettingTypeId": 3,
+            "eventId": 6630532,
+            "maxOdds": 3,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "6ab44x2rrhkx0xgtmri",
+            "maxOddsProviderId": 575,
+            "active": true
+          }
+        ],
+        "name": "Miami Heat - Atlanta Hawks",
+        "colClassNameTime": "datet t1681255800-1-1-0-0"
+      },
+      {
+        "id": 6157663,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 16408885,
+        "away": 16408886,
+        "home-name": "Dallas Mavericks",
+        "away-name": "San Antonio Spurs",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104088,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/Ma1k3NSc-vXFf6tnR.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/bNHvMynh-hUryft2e.png?231108120042"
+        ],
+        "encodeEventId": "hMc8n3sg",
+        "colClassName": "datet t1681068600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/dallas-mavericks-san-antonio-spurs-hMc8n3sg/",
+        "date-start-base": 1681068600,
+        "date-start-timestamp": 1681068600,
+        "result": "117:138",
+        "homeResult": "117",
+        "awayResult": "138",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "117:138",
+        "info": null,
+        "partialresult": "14:42, 45:29, 32:37, 26:30",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "49": 1,
+          "411": 1,
+          "45": 1
+        },
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 1.6100000000000000976996261670137755572795867919921875,
+            "bettingTypeId": 3,
+            "eventId": 6157663,
+            "maxOdds": 1.649999999999999911182158029987476766109466552734375,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "5rtavx2rrhkx0xfko9l",
+            "maxOddsProviderId": 641,
+            "active": true
+          },
+          {
+            "avgOdds": 2.4199999999999999289457264239899814128875732421875,
+            "bettingTypeId": 3,
+            "eventId": 6157663,
+            "maxOdds": 2.54000000000000003552713678800500929355621337890625,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "5rtavx2rrhkx0xfko9m",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Dallas Mavericks - San Antonio Spurs",
+        "colClassNameTime": "datet t1681068600-1-1-0-0"
+      },
+      {
+        "id": 6157666,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 16408891,
+        "away": 16408892,
+        "home-name": "Denver Nuggets",
+        "away-name": "Sacramento Kings",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104088,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/Ol9hPPVE-vXFf6tnR.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/QBWK6QRc-I30Q0K9l.png?231108120042"
+        ],
+        "encodeEventId": "trjLq1RB",
+        "colClassName": "datet t1681068600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/denver-nuggets-sacramento-kings-trjLq1RB/",
+        "date-start-base": 1681068600,
+        "date-start-timestamp": 1681068600,
+        "result": "109:95",
+        "homeResult": "109",
+        "awayResult": "95",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "109:95",
+        "info": null,
+        "partialresult": "26:43, 33:24, 24:14, 26:14",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "411": 1,
+          "49": 1,
+          "45": 1
+        },
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 2.689999999999999946709294817992486059665679931640625,
+            "bettingTypeId": 3,
+            "eventId": 6157666,
+            "maxOdds": 2.819999999999999840127884453977458178997039794921875,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "5rtb2x2rrhkx0xfko9r",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 1.5,
+            "bettingTypeId": 3,
+            "eventId": 6157666,
+            "maxOdds": 1.54000000000000003552713678800500929355621337890625,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "5rtb2x2rrhkx0xfko9s",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Denver Nuggets - Sacramento Kings",
+        "colClassNameTime": "datet t1681068600-1-1-0-0"
+      },
+      {
+        "id": 6157667,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 16408893,
+        "away": 16408894,
+        "home-name": "Los Angeles Lakers",
+        "away-name": "Utah Jazz",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104088,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/xGkB4oTc-6y7aqqwb.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/xOXI04nh-faSzOozC.png?231108120042"
+        ],
+        "encodeEventId": "KYlPrLtI",
+        "colClassName": "datet t1681068600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/los-angeles-lakers-utah-jazz-KYlPrLtI/",
+        "date-start-base": 1681068600,
+        "date-start-timestamp": 1681068600,
+        "result": "128:117",
+        "homeResult": "128",
+        "awayResult": "117",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "128:117",
+        "info": null,
+        "partialresult": "31:25, 34:31, 34:39, 29:22",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "411": 1,
+          "49": 1,
+          "45": 1
+        },
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.0700000000000000621724893790087662637233734130859375,
+            "bettingTypeId": 3,
+            "eventId": 6157667,
+            "maxOdds": 1.0900000000000000799360577730112709105014801025390625,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "5rtb3x2rrhkx0xfko9t",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 9.4399999999999995026200849679298698902130126953125,
+            "bettingTypeId": 3,
+            "eventId": 6157667,
+            "maxOdds": 11,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "5rtb3x2rrhkx0xfko9u",
+            "maxOddsProviderId": 16,
+            "active": true
+          }
+        ],
+        "name": "Los Angeles Lakers - Utah Jazz",
+        "colClassNameTime": "datet t1681068600-1-1-0-0"
+      },
+      {
+        "id": 6157664,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 16408887,
+        "away": 16408888,
+        "home-name": "Minnesota Timberwolves",
+        "away-name": "New Orleans Pelicans",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104088,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/Aa2e7DRc-KbXk58wB.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/llfeFiVE-StvCsRZ7.png?231108120042"
+        ],
+        "encodeEventId": "zomDoNda",
+        "colClassName": "datet t1681068600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/minnesota-timberwolves-new-orleans-pelicans-zomDoNda/",
+        "date-start-base": 1681068600,
+        "date-start-timestamp": 1681068600,
+        "result": "113:108",
+        "homeResult": "113",
+        "awayResult": "108",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "113:108",
+        "info": null,
+        "partialresult": "18:30, 29:25, 36:30, 30:23",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "411": 1,
+          "49": 1,
+          "45": 1
+        },
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.6399999999999999023003738329862244427204132080078125,
+            "bettingTypeId": 3,
+            "eventId": 6157664,
+            "maxOdds": 1.6799999999999999378275106209912337362766265869140625,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "5rtb0x2rrhkx0xfko9n",
+            "maxOddsProviderId": 5,
+            "active": true
+          },
+          {
+            "avgOdds": 2.350000000000000088817841970012523233890533447265625,
+            "bettingTypeId": 3,
+            "eventId": 6157664,
+            "maxOdds": 2.45000000000000017763568394002504646778106689453125,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "5rtb0x2rrhkx0xfko9o",
+            "maxOddsProviderId": 641,
+            "active": true
+          }
+        ],
+        "name": "Minnesota Timberwolves - New Orleans Pelicans",
+        "colClassNameTime": "datet t1681068600-1-1-0-0"
+      },
+      {
+        "id": 6157665,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 16408889,
+        "away": 16408890,
+        "home-name": "Oklahoma City Thunder",
+        "away-name": "Memphis Grizzlies",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104088,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/QmSxnnPt-zobYbbv1.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/CGrPMuhQ-tt2M10fr.png?231108120042"
+        ],
+        "encodeEventId": "nLjHpsC5",
+        "colClassName": "datet t1681068600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/oklahoma-city-thunder-memphis-grizzlies-nLjHpsC5/",
+        "date-start-base": 1681068600,
+        "date-start-timestamp": 1681068600,
+        "result": "115:100",
+        "homeResult": "115",
+        "awayResult": "100",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "115:100",
+        "info": null,
+        "partialresult": "20:24, 27:25, 38:24, 30:27",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "411": 1,
+          "49": 1,
+          "45": 1
+        },
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.8000000000000000444089209850062616169452667236328125,
+            "bettingTypeId": 3,
+            "eventId": 6157665,
+            "maxOdds": 1.87000000000000010658141036401502788066864013671875,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "5rtb1x2rrhkx0xfko9p",
+            "maxOddsProviderId": 575,
+            "active": true
+          },
+          {
+            "avgOdds": 2.069999999999999840127884453977458178997039794921875,
+            "bettingTypeId": 3,
+            "eventId": 6157665,
+            "maxOdds": 2.1699999999999999289457264239899814128875732421875,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "5rtb1x2rrhkx0xfko9q",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Oklahoma City Thunder - Memphis Grizzlies",
+        "colClassNameTime": "datet t1681068600-1-1-0-0"
+      },
+      {
+        "id": 6157668,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 16408895,
+        "away": 16408896,
+        "home-name": "Phoenix Suns",
+        "away-name": "Los Angeles Clippers",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104088,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/4nxPQdWE-4bqaxRtQ.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/44ATliBK-tt2M10fr.png?231108120042"
+        ],
+        "encodeEventId": "xAqUsudO",
+        "colClassName": "datet t1681068600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/phoenix-suns-los-angeles-clippers-xAqUsudO/",
+        "date-start-base": 1681068600,
+        "date-start-timestamp": 1681068600,
+        "result": "114:119",
+        "homeResult": "114",
+        "awayResult": "119",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "114:119",
+        "info": null,
+        "partialresult": "28:19, 25:29, 33:34, 28:37",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "411": 1,
+          "49": 1,
+          "45": 1
+        },
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 4.54000000000000003552713678800500929355621337890625,
+            "bettingTypeId": 3,
+            "eventId": 6157668,
+            "maxOdds": 5.0999999999999996447286321199499070644378662109375,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "5rtb4x2rrhkx0xfko9v",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 1.229999999999999982236431605997495353221893310546875,
+            "bettingTypeId": 3,
+            "eventId": 6157668,
+            "maxOdds": 1.2600000000000000088817841970012523233890533447265625,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "5rtb4x2rrhkx0xfkoa0",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Phoenix Suns - Los Angeles Clippers",
+        "colClassNameTime": "datet t1681068600-1-1-0-0"
+      },
+      {
+        "id": 6157669,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 16408897,
+        "away": 16408898,
+        "home-name": "Portland Trail Blazers",
+        "away-name": "Golden State Warriors",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104088,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/ENBxiW9K-Sz1MOtvA.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/lf5zrq6n-M5fifScn.png?231108120042"
+        ],
+        "encodeEventId": "G0rYtaBU",
+        "colClassName": "datet t1681068600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/portland-trail-blazers-golden-state-warriors-G0rYtaBU/",
+        "date-start-base": 1681068600,
+        "date-start-timestamp": 1681068600,
+        "result": "101:157",
+        "homeResult": "101",
+        "awayResult": "157",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "101:157",
+        "info": null,
+        "partialresult": "27:55, 26:29, 20:34, 28:39",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "45": 1,
+          "411": 1,
+          "49": 1
+        },
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 9.71000000000000085265128291212022304534912109375,
+            "bettingTypeId": 3,
+            "eventId": 6157669,
+            "maxOdds": 12,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "5rtb5x2rrhkx0xfkoa1",
+            "maxOddsProviderId": 470,
+            "active": true
+          },
+          {
+            "avgOdds": 1.0700000000000000621724893790087662637233734130859375,
+            "bettingTypeId": 3,
+            "eventId": 6157669,
+            "maxOdds": 1.0900000000000000799360577730112709105014801025390625,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "5rtb5x2rrhkx0xfkoa2",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Portland Trail Blazers - Golden State Warriors",
+        "colClassNameTime": "datet t1681068600-1-1-0-0"
+      },
+      {
+        "id": 6157662,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 16408883,
+        "away": 16408884,
+        "home-name": "Chicago Bulls",
+        "away-name": "Detroit Pistons",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104088,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/dE7RCWkQ-pbWMuxZT.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/nRhS1LRt-xrW85HXg.png?231108120042"
+        ],
+        "encodeEventId": "EVb4mqSn",
+        "colClassName": "datet t1681059600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/chicago-bulls-detroit-pistons-EVb4mqSn/",
+        "date-start-base": 1681059600,
+        "date-start-timestamp": 1681059600,
+        "result": "103:81",
+        "homeResult": "103",
+        "awayResult": "81",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "103:81",
+        "info": null,
+        "partialresult": "26:25, 23:21, 18:18, 36:17",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "411": 1,
+          "49": 1,
+          "45": 1
+        },
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.2800000000000000266453525910037569701671600341796875,
+            "bettingTypeId": 3,
+            "eventId": 6157662,
+            "maxOdds": 1.310000000000000053290705182007513940334320068359375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "5rtaux2rrhkx0xfko9j",
+            "maxOddsProviderId": 641,
+            "active": true
+          },
+          {
+            "avgOdds": 3.890000000000000124344978758017532527446746826171875,
+            "bettingTypeId": 3,
+            "eventId": 6157662,
+            "maxOdds": 4.160000000000000142108547152020037174224853515625,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "5rtaux2rrhkx0xfko9k",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Chicago Bulls - Detroit Pistons",
+        "colClassNameTime": "datet t1681059600-1-1-0-0"
+      },
+      {
+        "id": 6157684,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 16408927,
+        "away": 16408928,
+        "home-name": "Toronto Raptors",
+        "away-name": "Milwaukee Bucks",
+        "home-country-two-chart-name": "ca",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104088,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/COGqpVQt-dfaUavPf.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/AVrbaDmh-xrW85HXg.png?231108120042"
+        ],
+        "encodeEventId": "dYvxBwQA",
+        "colClassName": "datet t1681059600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/toronto-raptors-milwaukee-bucks-dYvxBwQA/",
+        "date-start-base": 1681059600,
+        "date-start-timestamp": 1681059600,
+        "result": "121:105",
+        "homeResult": "121",
+        "awayResult": "105",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "postmatchResult": "121:105",
+        "info": null,
+        "partialresult": "35:26, 32:29, 28:24, 26:26",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "411": 1,
+          "49": 1,
+          "45": 1
+        },
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 3,
+        "odds": [
+          {
+            "avgOdds": 1.6100000000000000976996261670137755572795867919921875,
+            "bettingTypeId": 3,
+            "eventId": 6157684,
+            "maxOdds": 1.649999999999999911182158029987476766109466552734375,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "5rtbkx2rrhkx0xfkoav",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 2.410000000000000142108547152020037174224853515625,
+            "bettingTypeId": 3,
+            "eventId": 6157684,
+            "maxOdds": 2.529999999999999804600747665972448885440826416015625,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "5rtbkx2rrhkx0xfkob0",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Toronto Raptors - Milwaukee Bucks",
+        "colClassNameTime": "datet t1681059600-1-1-0-0"
+      },
+      {
+        "id": 6157661,
+        "is-double": false,
+        "superTemplate": {
+          "id": "",
+          "name": "",
+          "url": "",
+          "shortUrl": ""
+        },
+        "home": 16408881,
+        "away": 16408882,
+        "home-name": "Washington Wizards",
+        "away-name": "Houston Rockets",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "event-stage-name-short": "",
+        "tournament_id": 62686,
+        "tournament-stage-id": 104088,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 3,
+        "cols": "1|2",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/QPdrTWQt-zNBiPbd0.png?231108120042"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/SKSR7n5n-bDEp9UHs.png?231108120042"
+        ],
+        "encodeEventId": "pdf0lPCt",
+        "colClassName": "datet t1681059600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "ftOnly": false,
+        "ftOnlyText": "",
+        "ftOnlyTextShort": "",
+        "url": "/basketball/usa/nba-2022-2023/washington-wizards-houston-rockets-pdf0lPCt/",
+        "date-start-base": 1681059600,
+        "date-start-timestamp": 1681059600,
+        "result": "109:114",
+        "homeResult": "109",
+        "awayResult": "114",
+        "homeTextInResult": "",
+        "awayTextInResult": "",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "postmatchResult": "109:114",
+        "info": null,
+        "partialresult": "39:31, 28:24, 18:32, 24:27",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 62686,
+        "tournament-name": "NBA 2022/2023",
+        "tournament-url": "nba-2022-2023",
+        "sport-url-name": "basketball",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Basketball",
+            "url": "/basketball/"
+          },
+          "country": {
+            "name": "USA",
+            "url": "/basketball/usa/"
+          },
+          "tournament": {
+            "name": "NBA 2022/2023",
+            "url": "/basketball/usa/nba-2022-2023/"
+          }
+        },
+        "stream": {
+          "411": 1,
+          "49": 1,
+          "45": 1
+        },
+        "bookmakersCount": 15,
+        "betting_type": 3,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 2.45000000000000017763568394002504646778106689453125,
+            "bettingTypeId": 3,
+            "eventId": 6157661,
+            "maxOdds": 2.5800000000000000710542735760100185871124267578125,
+            "outcomeResultId": 2,
+            "scopeId": 1,
+            "outcomeId": "5rtatx2rrhkx0xfko9h",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 1.5900000000000000799360577730112709105014801025390625,
+            "bettingTypeId": 3,
+            "eventId": 6157661,
+            "maxOdds": 1.6100000000000000976996261670137755572795867919921875,
+            "outcomeResultId": 1,
+            "scopeId": 1,
+            "outcomeId": "5rtatx2rrhkx0xfko9i",
+            "maxOddsProviderId": 584,
+            "active": true
+          }
+        ],
+        "name": "Washington Wizards - Houston Rockets",
+        "colClassNameTime": "datet t1681059600-1-1-0-0"
+      }
+    ],
+    "pagination": {
+      "pageCount": 28,
+      "activePage": 2,
+      "url": "https://www.oddsportal.com/ajax-sport-country-tournament-archive_/3/CU8oUDzT/X0/1/0",
+      "hasPagination": true,
+      "prefix": "",
+      "pages": 5,
+      "nextText": "Next",
+      "prevText": "Prev"
+    }
+  },
+  "refresh": 20
+}
