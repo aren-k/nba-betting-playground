@@ -1,20 +1,26 @@
 """
-Header
+This script opens all raw data and copies them to a single file.
+there are 28 json files in the <../loose> folder. 
+Author: Aren James Kerdokian
+Date: 09/11/2023
 """
 import json
 import os
 
-# Opening JSON file
+#obtain current path to create relative path
 cur_path = os.path.dirname(__file__)
-main_file = open(cur_path + '\combined.json')
+
+# stores all data when combined
+all_data = {"rows": []}
+
 for i in range(28):
-    relative_path = cur_path + '\loose\\' + str(i) + '.json'
-    f = open(relative_path)
+    relative_path = cur_path + '\loose\\' + str(i) + '.json'  # path to the raw data
+    f = open(relative_path)  # open raw data file
 
-    data = json.load(f)
+    data_dict = json.load(f)  # convert data to dict
+    all_data["rows"].append(data_dict["d"]["rows"])  # append file data to all data 
+    f.close()  # close data file
 
-    print(data["d"]["total"])
-    # main_file["array"]
-
-    f.close()
-
+# Copies all data to the "combined.json file"
+with open(cur_path + "\combined.json", "w") as outfile:
+    json.dump(all_data, outfile)
