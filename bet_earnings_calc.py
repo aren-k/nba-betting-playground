@@ -16,8 +16,8 @@ calculates the winnings by betting on the favourites for a single game
 return: earnings (losses) from winning (losing) the bet 
 """
 def bet_earnings_calc(bet_amount: float, row_data) -> float:
-    home_odds = row_data["home_odds"]
-    away_odds = row_data["away_odds"]
+    home_odds = row_data["home-odds"]
+    away_odds = row_data["away-odds"]
 
     # true if betting on home, false otherwise
     home_bet = home_odds <= away_odds
