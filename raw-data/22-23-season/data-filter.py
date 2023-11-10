@@ -28,7 +28,7 @@ for i in range(len(all_data_dict["rows"])):  # for every game...
     new_row["home-winner"] = all_data_dict["rows"][i]["home-winner"]
     new_row["away-winner"] = all_data_dict["rows"][i]["away-winner"]
     new_row["home-odds"] = all_data_dict["rows"][i]["odds"][0]["avgOdds"]
-    new_row["away-odds"] = all_data_dict["rows"][i]["odds"][0]["avgOdds"]
+    new_row["away-odds"] = all_data_dict["rows"][i]["odds"][1]["avgOdds"]
 
     filtered_data_dict["rows"].append(new_row)
 
